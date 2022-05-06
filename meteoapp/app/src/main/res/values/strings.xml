@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Meteo Lite</string>
+    <string name="search_city_hint">Type a city...</string>
+    <string name="temperature_measurement_unit" translatable="false">°C</string>
+    <string name="error_message_unknown">Could not connect to weather services.</string>
+    <string name="connection_error_retry_message">RETRY</string>
+    <string name="error_message_unauthorized">Unauthorized authentication to weather services.</string>
+    <string name="error_message_forbidden">Forbidden access to weather services.</string>
+    <string name="error_message_not_found">Specified city not found.</string>
+    <string name="error_image_view_description">Error image</string>
+    <string name="weather_image_view_description">Weather image</string>
+</resources>

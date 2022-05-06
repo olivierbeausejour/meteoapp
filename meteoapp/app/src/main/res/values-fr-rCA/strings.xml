@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meteo Lite</string>
+    <string name="search_city_hint">Entrez une ville...</string>
+    <string name="error_message_unknown">La connexion avec les services météo ont échoué.</string>
+    <string name="connection_error_retry_message">RÉESSAYER</string>
+    <string name="error_message_unauthorized">Authentification aux services météo non autorisée.</string>
+    <string name="error_message_forbidden">Accès aux services météo interdit.</string>
+    <string name="error_message_not_found">La ville spécifiée n\'a pas pu être trouvée.</string>
+    <string name="error_image_view_description">Image d\'erreur</string>
+    <string name="weather_image_view_description">Image météo</string>
+</resources>
